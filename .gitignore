@@ -1,4 +1,4 @@
-# Unity generated folders
+# ========== Unity generated folders ==========
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -6,8 +6,11 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
+UserSettings/
+# If you use Visual Studio Code, exclude these:
+.vscode/
 
-# Asset meta data
+# ========== Asset meta data ==========
 *.pidb
 *.suo
 *.user
@@ -17,25 +20,25 @@
 *.svd
 *.pdb
 
-# Auto-generated VS/JetBrains files
+# ========== Auto-generated VS/JetBrains files ==========
 *.csproj
 *.unityproj
 *.sln
 *.sln.docstates
-*.vscode/
-.vs/
+*.vs/
 
-# OS generated files
+# ========== OS generated files ==========
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# Crash Reports
+# ========== Crash Reports ==========
 sysinfo.txt
 
-# Unity Cache Server
+# ========== Unity Cache Server ==========
 Cache/
 
-# Package Manager
+# ========== Package Manager ==========
 [Pp]ackage[Ll]ock.json
+[Pp]ackageCache/
 
