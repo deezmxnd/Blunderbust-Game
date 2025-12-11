@@ -1,0 +1,41 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Asset meta data
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+*.svd
+*.pdb
+
+# Auto-generated VS/JetBrains files
+*.csproj
+*.unityproj
+*.sln
+*.sln.docstates
+*.vscode/
+.vs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Crash Reports
+sysinfo.txt
+
+# Unity Cache Server
+Cache/
+
+# Package Manager
+[Pp]ackage[Ll]ock.json
+
